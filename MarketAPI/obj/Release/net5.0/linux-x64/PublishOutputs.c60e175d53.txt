@@ -1,0 +1,11 @@
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\MarketAPI
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.Development.json
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\appsettings.json
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\MarketAPI.dll
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\MarketAPI.deps.json
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\MarketAPI.runtimeconfig.json
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\MarketAPI.pdb
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programing\OM-Market\MarketAPI\obj\Release\net5.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
